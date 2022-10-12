@@ -2,6 +2,8 @@
 
 # Version: 1.1.0 - Release Date : Feb 2022
 
+TEST
+
 The Socure SDK React Native bridge allows developers to use React to call the Socure Document
 Verification SDK. We provide both Android and iOS native library variants.
 
