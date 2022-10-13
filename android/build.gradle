@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android-extensions'
 group = "com.github.socure-inc"
 
 buildscript {
-  ext.kotlin_version = '1.7.20'
+  ext.kotlin_version = '1.+'
   repositories {
     google()
     mavenCentral()
